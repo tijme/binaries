@@ -23,8 +23,25 @@
         <sup>Decrypt saved Google Chrome credentials on Windows.</sup>
     </li>
     <li>
+        Ncat (<a href="https://github.com/innocent-panda/binaries/tree/master/ncat">mirror</a>, <a href="https://github.com/andrew-d/static-binaries">source</a>)
+        <br/>
+        <sup>Improved version of Netcat (includes e.g. encryption).</sup>
+    </li>
+    <li>
+        Netcat (<a href="https://github.com/innocent-panda/binaries/tree/master/netcat">mirror</a>, <a href="https://eternallybored.org/misc/netcat/">source</a>)
+        <br/>
+        <sup>Utility for reading from and writing to network connections using TCP or UDP.</sup>
+    </li>
+    <li>
+        Nmap (<a href="https://github.com/innocent-panda/binaries/tree/master/nmap">mirror</a>, <a href="https://github.com/andrew-d/static-binaries">source</a>)
+        <br/>
+        <sup>Utility for network discovery and security auditing.</sup>
+    </li>
+    <li>
         Plink (<a href="https://github.com/innocent-panda/binaries/tree/master/plink">mirror</a>, <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">source</a>)
         <br/>
         <sup>A command-line interface to the PuTTY back ends (portable SSH client).</sup>
     </li>
 </ul>
+
+
