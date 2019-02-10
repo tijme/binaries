@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/innocent-panda/binaries/master/.github/binaries.svg?sanitize=true" width="500" />
     <br/>
-    <sup>A mirror of several precompiled red-teaming tools</sup>
+    <sup>A mirror of several precompiled standalone red-teaming tools</sup>
     <br/>
     <img src="https://raw.finnwea.com/shield/?firstText=For&secondText=Windows" />
     <img src="https://raw.finnwea.com/shield/?firstText=For&secondText=MacOS" />
