@@ -9,7 +9,7 @@
 </p>
 <hr>
 <h4>Description</h4>
-<p>All the tools in this repository are in both binary and Base64 form. For some binaries, in addition to a 32-bit version, a 64-bit version is also available.</p>
+<p>All the tools in this repository are in both binary and base64 format. For some binaries, in addition to a 32-bit version, a 64-bit version is also available.</p>
 <h4>Tools</h4>
 <ul>
     <li>
