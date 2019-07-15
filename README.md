@@ -42,6 +42,11 @@
         <br/>
         <sup>A command-line interface to the PuTTY back ends (portable SSH client).</sup>
     </li>
+    <li>
+        SpoolSample (<a href="https://github.com/innocent-panda/binaries/tree/master/spoolsample">mirror</a>, <a href="https://github.com/leechristensen/SpoolSample">source</a>)
+        <br/>
+        <sup>Utility to coerce Windows hosts authenticate to other machines (printer bug).</sup>
+    </li>
 </ul>
 
 
