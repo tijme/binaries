@@ -43,6 +43,11 @@
         <sup>A command-line interface to the PuTTY back ends (portable SSH client).</sup>
     </li>
     <li>
+        PowerView (<a href="https://github.com/innocent-panda/binaries/tree/master/power-view">mirror</a>, <a href="https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1">source</a>)
+        <br/>
+        <sup>A PowerShell tool to gain network situational awareness on Windows domains.</sup>
+    </li>
+    <li>
         SharpHound (<a href="https://github.com/innocent-panda/binaries/tree/master/sharp-hound">mirror</a>, <a href="https://github.com/BloodHoundAD/BloodHound/tree/master/Ingestors">source</a>)
         <br/>
         <sup>A custom ingestor that collects data which can be imported into BloodHound.</sup>
