@@ -43,7 +43,12 @@
         <sup>A command-line interface to the PuTTY back ends (portable SSH client).</sup>
     </li>
     <li>
-        SpoolSample (<a href="https://github.com/innocent-panda/binaries/tree/master/spoolsample">mirror</a>, <a href="https://github.com/leechristensen/SpoolSample">source</a>)
+        SharpHound (<a href="https://github.com/innocent-panda/binaries/tree/master/sharp-hound">mirror</a>, <a href="https://github.com/BloodHoundAD/BloodHound/tree/master/Ingestors">source</a>)
+        <br/>
+        <sup>A custom ingestor that collects data which can be imported into BloodHound.</sup>
+    </li>
+    <li>
+        SpoolSample (<a href="https://github.com/innocent-panda/binaries/tree/master/spool-sample">mirror</a>, <a href="https://github.com/leechristensen/SpoolSample">source</a>)
         <br/>
         <sup>Utility to coerce Windows hosts authenticate to other machines (printer bug).</sup>
     </li>
